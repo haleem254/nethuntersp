@@ -32,6 +32,10 @@ modules.builtin
 *.lzo
 *.patch
 *.gcno
+kernel/hz.bc
+arch/arm/mach-msm/smd_rpc_sym.c
+arch/arm/boot/compressed/bswapsdi2.S
+arch/arm/crypto/sha256-core.S
 
 #
 # Top-level generic files
